@@ -1,4 +1,4 @@
-**Lab 09 Develop a memory game with the help of Github Copilot**
+**Lab 10 Develop a memory game with the help of Github Copilot**
 
 **Objective**
 
