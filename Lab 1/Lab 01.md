@@ -119,7 +119,7 @@ Test: curl -v <http://localhost:8080/hello?key=world>
     code you need to generate.
 
 ![A screenshot of a computer Description automatically
-generated](Media/image1.png)
+generated](media/image1.png)
 
 2.  Take the cursor at the end of the comment (line 12) just press enter
     and wait a couple of seconds, **Copilot** will generate the code for
