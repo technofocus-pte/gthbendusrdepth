@@ -1,4 +1,4 @@
-# **Lab 08 - Develop a chat based on WebSockets using Github Copilot**
+# **Lab 09 - Develop a chat based on WebSockets using Github Copilot**
 
 ## DESCRIPTION
 
