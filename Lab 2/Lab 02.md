@@ -1,4 +1,4 @@
-**Lab 05 - Build a REST API using Quarkus with the help of GitHub
+**Lab 02 - Build a REST API using Quarkus with the help of GitHub
 CopilotGoal**
 
 The goal of this lab is to learn how to use GitHub Copilot, using an
