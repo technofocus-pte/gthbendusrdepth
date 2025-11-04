@@ -1,4 +1,4 @@
-**Lab 01 - Build a REST API using Spring Boot with the help of GitHub
+**Lab 02 - Build a REST API using Spring Boot with the help of GitHub
 Copilot**
 
 **Goal**
